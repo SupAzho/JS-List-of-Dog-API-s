@@ -1,0 +1,45 @@
+.btn{
+    background-color: #f5c0aa;
+    padding: 12px 13px;
+}
+.div{
+    display: flex;
+    flex-flow: row nowrap;
+    place-content: stretch space-evenly;
+    align-items: stretch;
+    background-color: rgb(241, 142, 135);
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.displayDiv{
+    background-color: #ffe4c475;
+
+}
+.label{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: flex-start;
+    align-items: baseline;
+}
+.listFrame{
+    display: flex;
+    height: 300px;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+}
+img{
+    width: 25%;
+    height: 250px;
+  }
+  .picMain{
+    background-color: rgb(241, 142, 135);
+
+  }
+  .favMain{
+background-color: rgba(184, 49, 128, 0.274);
+
+  }
